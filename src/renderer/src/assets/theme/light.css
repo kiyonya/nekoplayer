@@ -1,0 +1,23 @@
+:root {
+    --app-background: rgb(247, 249, 252);
+    --side-bar-background-color: rgb(240, 243, 246);
+    --normal-playbar-background-color: rgb(250, 250, 250);
+
+    --progress-slider-background: rgb(218, 220, 223);
+    --progress-slider-progress: rgb(252, 61, 75);
+    --progress-slider-thumb: rgb(242, 244, 248);
+
+    --app-theme: rgb(247, 249, 252);
+    --app-theme-darker: rgb(240, 243, 246);
+    --app-theme-widget: rgb(255, 255, 255);
+    --app-theme-component: rgb(255, 255, 255);
+    --app-theme-strong: rgb(0, 110, 255);
+    --app-theme-strong-background: rgb(202, 212, 255);
+    --app-theme-decoration: #191919;
+
+    --app-text: #000;
+    --app-text-i: #fff;
+
+    --color-comp-opacity:0.8;
+    --color-comp:#000000;
+}

@@ -1,0 +1,44 @@
+:root {
+    --app-background: rgb(31,31,31);
+    --side-bar-background-color: rgb(37, 37, 38);
+    --normal-playbar-background-color: rgb(250, 250, 250);
+
+    --progress-slider-background: rgb(218, 220, 223);
+    --progress-slider-progress: rgb(252, 61, 75);
+    --progress-slider-thumb: rgb(242, 244, 248);
+
+    --app-theme: rgb(31,31,31);
+    --app-theme-darker: rgb(37, 37, 38);
+    --app-theme-medium: rgb(35, 35, 35);
+    --app-theme-widget: rgb(255, 255, 255);
+    --app-theme-component: rgb(47, 46, 46);
+    --app-theme-strong: #ff6676;
+    --app-theme-strong-background: #ff6676;
+    --app-theme-decoration: #ff6676;
+
+    --app-text: #ffffff;
+    --app-text-i: #000000;
+
+    --devide-color:#ffffff48;
+    --devide-color-l:#ffffff0f;
+    --devide-color-d:#ffffff83;
+
+    --text-opacity-0: 1;
+    --text-opacity-1: 1;
+    --text-opacity-2: 0.9;
+    --text-opacity-3: 0.85;
+    --text-opacity-4: 0.7;
+
+    --FM-title-text-opacity:1;
+    --FM-artist-text-opacity:0.9;
+
+    --side-bar-link-opacity:0.9;
+
+    /*图标反转*/
+    --icon-invert:1;
+    /*颜色控件的颜色*/
+    --color-comp-opacity:0.8;
+    --color-comp:#ffffff;
+}
+
+;
